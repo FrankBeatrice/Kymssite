@@ -5,7 +5,7 @@ categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
 share = true
-tags = ["go", "golang", "templates", "themes", "development", "Pong "]
+tags = ["go", "golang", "templates", "themes", "development"]
 title = "Kym's Updates"
 type = "post"
 
