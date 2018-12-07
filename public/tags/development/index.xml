@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on </title>
+    <link>/tags/development/</link>
+    <description>Recent content in Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Mar 2018 19:54:51 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wanna Build a Website for 12 Dollars???</title>
+      <link>/coding/buildawebsitefor12dollars/wanna-build-a-website-for-12-dollars/</link>
+      <pubDate>Sat, 03 Mar 2018 19:54:51 +0000</pubDate>
+      
+      <guid>/coding/buildawebsitefor12dollars/wanna-build-a-website-for-12-dollars/</guid>
+      <description>&lt;p&gt;That&amp;rsquo;s right. You read that right. Today I am going to talk about why you wanna build a portfolio site and in the future videos we are going to talk about how to do so for only $12 a year.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

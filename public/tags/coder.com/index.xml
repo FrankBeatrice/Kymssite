@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coder.com on </title>
+    <link>/tags/coder.com/</link>
+    <description>Recent content in Coder.com on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/coder.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Coder.com With Hugo</title>
+      <link>/coding/2018-using-coder-com-with-hugo/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/coding/2018-using-coder-com-with-hugo/</guid>
+      <description>I hate having to setup my development environment over and over again. Today I am going to show you how to set it up once. Along with my theme of free resources, Coder.com is perfect for coding anywhere on anything.
+ Installing Hugo on Coder.com Run this command in the terminal
+go get -u github.com/gohugoio/hugo  Go to root/go/src/github.com/gohugoio/hugo and run a build command. Once this is done copy the hugo binary to /usr/local/bin</description>
+    </item>
+    
+  </channel>
+</rss>

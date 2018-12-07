@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on </title>
+    <link>/tags/web/</link>
+    <description>Recent content in Web on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building A Website Using Hugo</title>
+      <link>/coding/buildawebsitefor12dollars/2018-building-a-website-using-hugo/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/coding/buildawebsitefor12dollars/2018-building-a-website-using-hugo/</guid>
+      <description>Today in my series of building a website for $12, we are going to go into actually using the static site generator Hugo to build one. I am going to walk you through step by step to install, build and render out a website.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

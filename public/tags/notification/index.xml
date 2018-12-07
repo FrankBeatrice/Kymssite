@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notification on </title>
+    <link>/tags/notification/</link>
+    <description>Recent content in Notification on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/notification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turn Off Your Notifications</title>
+      <link>/youngmangame/2018-turn-off-your-notifications/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/youngmangame/2018-turn-off-your-notifications/</guid>
+      <description>Sometimes you gotta know when life is more important than just your phone. Take some time to look at the bigger picture with Trevor and myself.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

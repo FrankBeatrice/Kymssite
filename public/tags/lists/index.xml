@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on </title>
+    <link>/tags/lists/</link>
+    <description>Recent content in Lists on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Dec 2017 16:22:49 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/lists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lists</title>
+      <link>/coding/python101/lists/</link>
+      <pubDate>Wed, 27 Dec 2017 16:22:49 -0500</pubDate>
+      
+      <guid>/coding/python101/lists/</guid>
+      <description>&lt;p&gt;Today we go over &lt;code&gt;Lists&lt;/code&gt; in python and some built in functions and how they apply to them.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

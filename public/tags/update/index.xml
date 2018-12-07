@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on </title>
+    <link>/tags/update/</link>
+    <description>Recent content in Update on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Aug 2018 20:56:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Update Hugo In Netlify</title>
+      <link>/coding/buildawebsitefor12dollars/2018-update-hugo-in-netlify/</link>
+      <pubDate>Sun, 19 Aug 2018 20:56:59 +0000</pubDate>
+      
+      <guid>/coding/buildawebsitefor12dollars/2018-update-hugo-in-netlify/</guid>
+      <description>You want to make sure you have the latest version of Hugo to create the most robust and secure site you can have. Netlify makes this easy to do. You want to make sure you
+ </description>
+    </item>
+    
+  </channel>
+</rss>
