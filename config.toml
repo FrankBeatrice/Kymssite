@@ -42,7 +42,7 @@ theme = "casper-two"
 	weight = 13
 [[menu.main]]
 	name = "Featured"
-	url = "/featured"
+	url = "/articles"
 	weight = 14
 [[menu.main]]
 	name = "Articles"
