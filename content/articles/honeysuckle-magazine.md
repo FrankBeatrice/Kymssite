@@ -1,13 +1,19 @@
 +++
-author = "Lacey Jaye"
-authorImage = "/uploads/authors/AuthorLacyJae.png"
+author = "Kym_B"
+authorImage = "/uploads/authors/Author_KymByrnes.jpg"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
 share = true
 title = "Honeysuckle Magazine"
 type = "post"
-
+tags = [
+    "go",
+    "golang",
+    "templates",
+    "themes",
+    "development",
+]
 +++
 ![](/uploads/honeysuckle logo.png)
 

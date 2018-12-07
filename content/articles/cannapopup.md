@@ -1,30 +1,58 @@
 +++
-author = "Lacey Jaye"
-authorImage = "/uploads/authors/AuthorLacyJae.png"
+author = "Kym_B"
+authorImage = "/uploads/authors/Author_KymByrnes.jpg"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
+draft = true
 share = true
-title = "CannaPop-Up"
+title = "CannaPopup"
 type = "post"
-
+tags = [
+    "go",
+    "golang",
+    "templates",
+    "themes",
+    "development",
+]
 +++
-![](/uploads/CannapopuplogowithBest.png)
 
-The best way to describe the Canna Pop-Up event is one-part social event, one-part education, one-part foodie, one-part art exhibit, and ALL parts for anyone with an open mind. Pop-up experiences last for only a brief period of time. They are transitory and as a result, exciting and compelling. 
+![](/uploads/CannaBLISWKymB_Logo_160x160@2x.jpg)
 
-The Canna Pop-Up experience will elevate your senses to a higher level. We bring people together to learn about cannabis for health, wellness, self-care, and caregiving. Our pop-up events will exhibit what tasteful, responsible adult use could look and feel like. 
+CBD lifestyle brand Tribe Tokes kicks off its entry into beauty with a natural CBD eye cream from Kym B 
 
-The cannabis industry has made remarkable strides and it’s our desire to help shape the cannabis landscape in the NJ/NY area and create buzz and excitement about medical and adult-use. Until then, we have a very powerful supplement, Cannabidiol (CBD), a cannabis extract legal in all 50 states and is proven to have calming and stress-relieving effects, among other positive health benefits for a variety of medical and social conditions. 
+It’s Here! A CBD eye cream from a girl who knows cannabis. Tribe Tokes own director of operations, Kymberly “KymB” Byrnes, a cannabis advocate, influencer and all-around girl boss is behind a natural CBD line, Cannablis By KymB Beauty. With so much knowledge and passion for cannabis, Kim, a certified Pilates instructor & self-proclaimed “green juice junkie” vegetarian knew she had to explore good natural ingredients that would work well with CBD. Her active lifestyle made the quest for a really good CBD eye cream a mission that many will be glad she undertook.  Her line’s debut product, Cannablis By KymB. CBD Eye Cream is the result. It is a soothing and hydrating blend of shea and cocoa butter, arnica & birch extracts, aloe, avocado oil, sunflower seed oil, beeswax. 
 
-[https://cannapopup.com/](https://cannapopup.com/ "https://cannapopup.com/") 
+It’s all natural. With no: 
 
-![](/uploads/Holli-Robert-Backyard-party.jpg)
+• parabens, 
 
-Robert Allen & Holli Ehrlich 
+• sulfates, 
 
-Co-founders Robert Allen & Holli Ehrlich are a dynamic husband-wife team who have a passion for planning and producing events like no other. 
+• chemicals or fragrance 
 
-Check out their live podcasts and blog for more information! Holli and Robert are such a delight and always a joy to listen to! They offer information in a way that is as fun and relative as it is entertaining! Their passion for all things cannabis is contagious!
+All this combined with the renewing*, anti-inflammatory properties* of Cannabidiol (CBD) Isolate, make for one powerful eye cream for long nights or early mornings.
 
-![](/uploads/cannapopupLogo.jpg)
+![](/uploads/EyeCream6_4x6forweb.jpg)![](/uploads/eyecream_sidebyside.jpg)![](/uploads/KIMB_EYECREAM SWATCH_01.jpg)
+
+[https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty](https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty "https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty") 
+
+**WHY WE LOVE IT** 
+
+Introducing the debut product of Cannablis By KymB, a Beauty Line created by cannabis influencer and High Times CBD Judge Kym Byrnes. This half ounce jar contains all natural, nourishing ingredients - everything you'd want in an eye cream, with CBD added to reduce inflammation and puffiness. 
+
+**KEY INGREDIENTS**  
+
+Shea Butter, Cocoa Butter, Hemp, Arnica and Birch Extracts, Aloe Vera, Avocado Oil, Sunflower Seed Oil, Bees Wax, Hemp-derived Cannabidiol  
+
+_Other Ingredients:_ Ethyl Macadamiate, Certearyl Alcohol, Glyceryl Stearate, Glycerin, Phenoxyethanol, Propanediol, Potassium Sorbate. 
+
+**DIRECTIONS** 
+
+Apply a pea-sized amount to each eye, dabbing small dots under and around your eyes and along the brow bone. To avoid pulling the skin gently pat the cream from the inner corner to the outer corner until it's absorbed. Wait a couple of minutes before applying sunscreen or makeup.  
+
+**SIZE** 
+
+0\.5 oz (14 g) 
+
+_Caution:_ For external use only. Avoid contact with eyes and mucous membranes. Do not apply to broken skin or open wounds. Stop use if condition worsens or skin irritation occurs. If pregnant or breastfeeding, consult with a health professional before use. 
