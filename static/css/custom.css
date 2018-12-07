@@ -350,4 +350,34 @@ LEVEL 3. MOBILE ANIMATION STYLES
     transition: all .5s ease;
 }
 
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+#mc_embed_signup {
+  background:#fff; 
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+}
+
+.site-header-content #breadcrumbs {
+  background: rgba(255,255,255, 0.001) !important;
+  color: black !important;    
+  font-style: bold;
+}
+
+.site-header-content #breadcrumbs a {
+  color: black !important;
+}
+
+#breadcrumbs {
+  background: white;
+  color: #01FB2F !important;
+  text-align: center;
+  z-index: 10;
+  width: 100%;
+}
+
+#breadcrumbs a {
+  color: #01FB2F !important;
+}
+
+.floating-active {
+  flex-flow: row wrap !important;
+}
