@@ -1,5 +1,5 @@
 +++
-author = "Kym_B"
+author = "Lacey Jaye"
 authorImage = "uploads/chrisstayte_profilepic.jpg"
 categories = "Test"
 comments = true
