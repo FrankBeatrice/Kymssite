@@ -1,5 +1,5 @@
 BaseURL = "/"
-disqusShortname = "blog-chrisstayte"
+disqusShortname = "cannabiswithkymb"
 languageCode = "en-US"
 paginate = 6
 theme = "casper-two"
@@ -38,7 +38,7 @@ theme = "casper-two"
 	weight = 12
 [[menu.main]]
 	name = "Coffee"
-	url = "https://flowerpower.coffee/"
+	url = "/https://flowerpower.coffee/"
 	weight = 13
 [[menu.main]]
 	name = "Featured"

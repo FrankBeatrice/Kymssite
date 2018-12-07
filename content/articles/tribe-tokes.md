@@ -5,15 +5,10 @@ categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
 share = true
+tags = ["go", "golang", "templates", "themes", "development"]
 title = "Tribe Tokes"
 type = "post"
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-]
+
 +++
 ![](/uploads/tribetokeslogo.png)
 
