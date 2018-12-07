@@ -38,7 +38,7 @@ theme = "casper-two"
 	weight = 12
 [[menu.main]]
 	name = "Coffee"
-	url = "/coffee"
+	url = "https://flowerpower.coffee/"
 	weight = 13
 [[menu.main]]
 	name = "Featured"
