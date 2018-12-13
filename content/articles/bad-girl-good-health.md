@@ -4,41 +4,25 @@ authorImage = "/uploads/authors/Author_KymByrnes.jpg"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
-draft = true
 share = true
 tags = ["CannaGather", "Cannabis", "Networking", "Princeton", "Northern Swan", "HBS", "Harvard Business School", "Columbia"]
-title = "Bad Girl Good Health"
+title = "Bad Girl, Good Health"
 type = "post"
 
 +++
-![](/uploads/702.cannagather-logo-final-v1_2000.png)
+**![](/uploads/Screen Shot 2018-12-13 at 4.05.20 PM.png)  
+Bad Girl Good Health**
 
-CannaGather is the largest cannabis industry community in New York. Join us for a lecture style event with amazing speakers plus a great networking community. No cannabis consumption is allowed at our events, due to New York State law...we hope this will change!
+**With over twenty years in the fitness industry, you can catch Kym living her best life and helping others to do the same as a Pilates instructor at Equinox! Offering Pilates Power, Monday mornings at Equinox Gym.**
 
-> Upcoming CannaGather Events
+**Kym is also Workout Street Fashion Ambassador for lululemon.**
 
-Columbia, the future of Canna-Agriculture
+**Mindful, fit and lit!**
 
-December 11th, 2018 7:00pm– 9:00pm
+[https://www.equinox.com/groupfitness/7125618](https://www.equinox.com/groupfitness/7125618 "https://www.equinox.com/groupfitness/7125618")
 
-Galvanize
+**You can follow Kym’s fitness journey on Instagram @badgirlgoodhealth**
 
-303 Spring Street
+**Check out lululemon**
 
-New York, NY 10013
-
-**CannaGather** is the largest cannabis industry community in New York. Join us for a lecture style event with amazing speakers plus a great networking community. No cannabis consumption is allowed at our events, due to New York State law...we hope this will change!
-
-This month's guest speaker:
-
-![](/uploads/e6f.Kyle_Detwiler-Marial-Pierce.jpg)Kyle Detwiler
-
-Co-founder & CEO, Northern Swan
-
-Northern Swan is an opportunistic, New York-based investment firm focused on early and late-stage investments in cannabis and cannabis-related companies. We pursue opportunities globally. Northern Swan's investment professionals have collectively invested in excess of $3 billion of capital at Blackstone, KKR, and Och-Ziff prior to founding Northern Swan.
-
-Prior to co-founding Northern Swan in August of 2017, Mr. Detwiler co-founded Silver Swan LLC- an investment firm focused in several niche and underfollowed sectors. Mr. Detwiler was a Principal at The Blackstone Group, a leading alternative investment manager with $344 billion of assets under management.  As an early member of the Tactical Opportunities Fund, Mr. Detwiler was involved in the management or served as a board member in 7 investments with roughly $1 billion of Blackstone capital, including LocusPoint Networks (television broadcasting and spectrum), Phoenix Tower International (wireless towers in the US and Latin America), Wireless Capital Partners (real estate attached to wireless towers), Philadelphia Financial Group (insurance), One Market Plaza (commercial real estate) and a residential real estate platform in New York City.
-
-Previously, Mr. Detwiler was a member of the private equity practice at Kohlberg, Kravis, Roberts & Co. (“KKR”), focusing on transactions in the oil & gas, energy, natural resource and health care sectors.  He began his career as an investment banker at Morgan Stanley.
-
-Mr. Detwiler graduated with distinction from Harvard Business School and cum laude from Princeton University.
+[https://shop.lululemon.com/?CID=Google_All_PPC%2BBrand_US&gclid=CjwKCAiA5qTfBRAoEiwAwQy-6bHgOVpA3o_IZGC4fqaeYJ3W-F5RuyhWXW4fGHfETJ4BCszMFiCWQxoCzyEQAvD_BwE&gclsrc=aw.ds](https://shop.lululemon.com/?CID=Google_All_PPC%2BBrand_US&gclid=CjwKCAiA5qTfBRAoEiwAwQy-6bHgOVpA3o_IZGC4fqaeYJ3W-F5RuyhWXW4fGHfETJ4BCszMFiCWQxoCzyEQAvD_BwE&gclsrc=aw.ds "https://shop.lululemon.com/?CID=Google_All_PPC%2BBrand_US&gclid=CjwKCAiA5qTfBRAoEiwAwQy-6bHgOVpA3o_IZGC4fqaeYJ3W-F5RuyhWXW4fGHfETJ4BCszMFiCWQxoCzyEQAvD_BwE&gclsrc=aw.ds")
