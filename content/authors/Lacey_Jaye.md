@@ -1,5 +1,5 @@
 ---
-name: Lacey Jaye
+name: Lacey_Jaye
 image: "/uploads/authors/AuthorLacyJae.png"
 title: Author at Cannabis with Kymb
 address: New York, NY

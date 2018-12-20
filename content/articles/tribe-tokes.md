@@ -1,5 +1,5 @@
 +++
-author = "Lacey Jaye"
+author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
 categories = "Test"
 comments = true
