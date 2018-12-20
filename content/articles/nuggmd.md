@@ -1,6 +1,6 @@
 +++
-author = "Kym_B"
-authorImage = "/uploads/authors/Author_KymByrnes.jpg"
+author = "Sponsored"
+authorImage = "/uploads/authors/Author_Sponsored.png"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
