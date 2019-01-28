@@ -60,7 +60,7 @@ theme = "casper-two"
 [params]
 	RSSLink = ""
 	author = "Kym_B"
-	authorAvatar = "/uploads/authors/AuthorLacyJae.png"
+	authorAvatar = ""
 	authorDescription = "Developer, Designer, Legend..."
 	authorLocation = "New York, NY"
 	authorWebsite = "https://www.cannabiswithkymb.com/"
