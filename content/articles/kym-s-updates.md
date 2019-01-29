@@ -8,13 +8,7 @@ date = "2018-08-17T13:52:07.411+00:00"
 share = true
 title = "Kym's Updates"
 type = "post"
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-]
+tags = ["Kym's Updates", "News"]
 +++
 What an exciting time in the world of weed! As your official plug for news and events, I have been struggling to create a hub for all of the amazing opportunities in the cannabis community. After months of compiling and an amazing team - I launch Cannabis with KymB Online Platform. Here you can find all things cannabis specifically on the (B) East Coast.  
   

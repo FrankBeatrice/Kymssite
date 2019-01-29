@@ -8,13 +8,7 @@ draft = true
 share = true
 title = "CannaPopup"
 type = "post"
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-]
+tags = ["Networking","Retail" ]
 +++
 
 ![](/uploads/CannaBLISWKymB_Logo_160x160@2x.jpg)
