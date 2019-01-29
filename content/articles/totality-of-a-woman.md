@@ -1,7 +1,7 @@
 +++
 author = "Kym_B"
 authorImage =  "/uploads/authors/Author_KymByrnes.jpg"
- img="/uploads/Totalityofawomen_cover.jpg
+ image = "/uploads/Totalityofawomen_cover.jpg
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
