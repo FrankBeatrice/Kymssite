@@ -1,6 +1,8 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
+
+image = "/uploads/authors/AuthorLacyJae.png"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
