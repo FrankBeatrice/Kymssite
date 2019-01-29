@@ -11,7 +11,7 @@ title = "Honeysuckle Magazine"
 type = "post"
 
 +++
-\\![](/uploads/honeysuckle logo.png)
+![](/uploads/honeysuckle logo.png)
 
 HONEYSUCKLE is a print and digital magazine that emphasizes diverse voices, personal testimony, and visual impact. Each quarter, our print edition explores a topical issue through a range of perspectives. Our boots-on-the-ground reporting combines input from thoughtful observers, high-profile celebrities, and personal testimony. Our cross-generational audience is open, inclusive, and curious, united by their shared passion for knowledge and desire to dive deep into themes that are important.
 
