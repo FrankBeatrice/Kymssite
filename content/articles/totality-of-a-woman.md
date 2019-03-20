@@ -1,10 +1,9 @@
 +++
 author = "Lacey_Jaye"
-authorImage = "/uploads/authors/Author_KymByrnes.jpg"
+authorImage = ""
 categories = ["Networking", " Empowerment"]
 comments = true
 date = ""
-draft = true
 image = "/uploads/Totalityofawomen_cover.jpg"
 share = true
 tags = ["Selfcare", "Health"]
