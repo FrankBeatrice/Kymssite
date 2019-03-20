@@ -1,10 +1,9 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
-categories = ["cannabis", "wellness"]
+categories = ["cannabis", "update"]
 comments = true
 date = "2019-03-20T19:26:00+00:00"
-draft = true
 image = "/uploads/authors/AuthorLacyJae.png"
 share = true
 tags = ["Updates", "News"]
