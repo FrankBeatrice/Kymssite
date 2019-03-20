@@ -4,7 +4,6 @@ authorImage = "/uploads/authors/AuthorLacyJae.png"
 categories = ["cbd", "health and wellness"]
 comments = true
 date = ""
-draft = true
 image = "/uploads/authors/AuthorLacyJae.png"
 share = true
 tags = ["cbd", "yoga"]
