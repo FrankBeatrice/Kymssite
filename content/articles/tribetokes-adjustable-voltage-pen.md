@@ -3,7 +3,7 @@ author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
 categories = ["CBD", "education"]
 comments = true
-date = ""
+date = "2019-01-30T05:00:00+00:00"
 share = true
 tags = ["CBD", "Rx MaryJade"]
 title = "Rx MaryJade: Taking the confusion out of infusion"
@@ -27,7 +27,7 @@ Towards the back of the restaurant they had about a half dozen small tables set 
 
 the horseshoe sat about a dozen eager, smiling faces ready to learn and happily munching down on some CBD infused dinner. Most of the attendees were female, but the ages seemed to vary from what I could see with my eyes. Some of the attendees were patients and caregivers, but some appeared to just be old school enthusiasts who just wanted to learn how to make a classic stoner staple!
 
-A delicious CBD infused meal was made by one of my favorite Cannacooks, Edible Dots. Each serving contained 1mg of Charlotte’s Web CBD per serving. The meal consisted of Orzo Insalata Mista and Fresca Penne Alla Vodka and there was also a CBD infused mock-tale to wash it all down!
+A delicious CBD infused meal was made by one of my favorite Cannacooks, Edible Dots. Each serving contained 1mg of Charlotte’s Web CBD. The meal consisted of Orzo Insalata Mista and Fresca Penne Alla Vodka and there was also a CBD infused mock-tale to wash it all down! No photo because I ate it before I thought to take one!
 
   
 ![](https://lh5.googleusercontent.com/cwo9mKq0lIEtiXAK73y49dY5yiqjPfkxBIqtZ2nmPMBj3Q2_kMC-n3Ngv2QXuS-jxCZnJQlZDsPDRWL_0rCn4_0yw-KrYvOD7Hci_80leSuG8ugEaQ0KSb3miN42Rv0mP52_Wdk =321x430)
@@ -51,7 +51,7 @@ Attendees hung back after the class to shop and mingle. Many asking Jade when th
   
 ![](https://lh3.googleusercontent.com/PngnMqHE-zB08DAhrqnNhhgrcXQINT6TR1yrEFpq-dicQ1fYvuWHpiT00g6FtAMb8f2pvtZJBORe5b9wQGMk_nkB3oA5gTmUIACeszdNPAT_sOaiXsV0RvWdeyT6D9H-6HN9Sw4 =384x432)
 
-Overall, I found Jade to be funny, entertaining and informative. I can’t stress the vital role that she plays as an advocate and teacher in the community. Rx Mary Jade started as a self-help mission that has overpoured and in the most wonderful way possible. Jade spreads knowledge and wellness everywhere she goes, and she does it with a smile on her face and kindness and love in her heart. I could not be more thankful for having crossed paths with such a vibrant and kind soul. At the end of the day, Rx Mary Jade isn’t a business or brand that is just in it for the money, but in it for the genuine well-being of others and putting the knowledge and tools in the hands of people who need it most.
+Overall, I found Jade to be funny, entertaining and informative. I can’t stress the vital role that she plays as an advocate and teacher in the community. Rx Mary Jade started as a self-help mission that has over poured and in the most wonderful way possible. Jade spreads knowledge and wellness everywhere she goes, and she does it with a smile on her face and kindness and love in her heart. I could not be more thankful for having crossed paths with such a vibrant and kind soul. At the end of the day, Rx Mary Jade isn’t a business or brand that is just in it for the money, but in it for the genuine well-being of others and putting the knowledge and tools in the hands of people who need it most.
 
 You can find out more about upcoming events by clicking here: [http://www.rxmaryjade.com/upcoming-events](http://www.rxmaryjade.com/upcoming-events "http://www.rxmaryjade.com/upcoming-events")
 
