@@ -4,7 +4,6 @@ authorImage = "/uploads/authors/AuthorLacyJae.png"
 categories = ["Tribetokes", "CBD"]
 comments = true
 date = "2018-11-01T13:52:07+00:00"
-draft = true
 share = true
 tags = ["Retail", "Review"]
 title = "TribeTokes Adjustable Voltage Pen"
