@@ -1,48 +1,50 @@
 +++
-author = "Rx_MaryJade"
+author = "Lacey_Jaye"
 authorImage = ""
-categories = ["CBD", "education"]
+categories = ["CBD", "review"]
 comments = true
 date = "2019-01-30T05:00:00+00:00"
-draft = true
 share = true
 tags = ["CBD", "Rx MaryJade"]
-title = "The Story of Rx MaryJade"
+title = "Shamans Salve CBD infused lotion: Product Review"
 type = "post"
 
 +++
-![](https://lh6.googleusercontent.com/Q-3RJatlCKxKITGwnH9MjPGD6H3UGj9LhxOFN4JHzGBdSQRR7Qf8AwNkhmWJGR2yDA1gBh2YX4VBDCTCOr5OVKwsVOCqbPrp2jZN1BCSzNaNYneHVSqWPlzQQuVlvRx2t7jCIxw =624x323)
+### Shamans Salve CBD infused lotion: Product Review
 
-[ALCHEMY](http://highherstory.com/category/alchemy/) , [HEALING HERSTORIES](http://highherstory.com/category/alchemy/healing-herstories/)
+As someone that suffers from chronic pain, I am always looking for new ways to ease my pain. A couple of months ago I was given a jar of Rx Mary Jade’s CBD infused Shamans Salve. I was very excited and open minded to try this product. Many companies claim to have high quality products that are effective at relieving pain, but few live up to their claims. Rx Mary Jade is very different and I would like to share my opinion with you.
 
-### **The Story of RXMaryJade** 
+![](/uploads/shaman salve.jpg)
 
-BY [GUEST](http://highherstory.com/author/guest/) JUNE 27, 2018
+**Packaging**
 
-_Photo by Lucy La Riot_
+The product come simply packaged in an adorable green jar. The front label simply states Rx Mary Jade and the back label has the product number and the ingredients, first of which is love. There is no box or plastic wrap and the mouth of the jar is nice and wide so you have easy access to all of the product from start to finish.
 
-It’s time I come out of the canna-closet. My story began when I was 15 years old. That’s when I started using cannabis recreationally, but I never paid attention to any potential medicinal effects until age 22. At this point in my life, I felt I wanted to change my life to become “healthy”. I was in the process of losing weight and thought that by eliminating all sugar, carbs, and intoxicants I was doing myself a great justice.
+**Product**
 
-One hundred pounds and one year later, I began to incorporate these unhealthy foods and alcohol back into my life. However, not cannabis.
+This product is made in small batches, from what I’ve seen, batches of 25 or less. The ingredients are clearly listed on the back of the jar and they are all easy to pronounce. Love, CBD distillate, coconut oil, shea butter, cinnamon and peppermint oil... wholesome ingredients, responsibly sourced, lovingly put together and available at an extremely reasonable price.
 
-Around this time I had moved into an apartment with my ex-boyfriend in New York City. Things were great until I started getting sick. It was so bad at one point that I was sent to the ER after returning to work the day after Thanksgiving. But they were unable to tell me what issues I was having with my stomach.
+**Texture and Scent**
 
-Shortly after that I began experiencing tremors so intense I would collapse to the floor, unable to move freely. The episodes between stomach illness and uncontrollable tremors became closer and closer together until it drove a wedge in our relationship.
+I love the subtle scent of this product. It isn’t as overwhelming and powerful as some pain-relieving products, with strong scents. This product is good for all skin types as, as its blend of shea butter and coconut oil is perfectly blended to soothe even the driest skin. This product isn’t greasy or heavy, it can be rubbed into one area with minimal spreading, which makes dosing much easier.
 
-I don’t remember what influenced me to start utilizing cannabis again, but it was exactly what I needed. I would call the delivery service as much as possible, trying to buy the strongest strains they had available. This was when I began to realize that cannabis was an essential part of my well-being; it was a biological need.
+**Effectiveness**
 
-Time passed and I moved back to New Jersey to begin my single life and continue my massage therapy education. While in massage school I completed a case study on fibromyalgia. From this study I was led to believe that I may be dealing with this condition. My diagnosis of fibromyalgia was confirmed by my doctor in 2013.
+I personally found this product to be super effective. I suffer from neuropathy in my feet. I have tried several lotions and medications to no avail. There are days that I would have been stuck in bed if not for Rx Mary Jade’s lotion. As of right now, it is the only thing that gives me any sort of relief. I also find it to be helpful with my joint and muscle pains elsewhere in the body.
 
-Fibromyalgia does not have a rhyme or reason to it. My body will shake uncontrollably from tremors due to any type of stress. Days can go by without eating. I also collapse to the floor from fatigue which takes away my ability to walk.
+After seeing me use and find relief with the lotion, my boyfriend let me put some on his back after a long day at work (he’s a contractor) and within minutes he too, was feeling the pain-relieving effects of Rx Mary Jade’s lotion. He was able to go to sleep and stay asleep with no back pain!
 
-For four years I tried to use street cannabis to maintain my condition. It is nearly impossible to get the correct strain on the street. Unknowingly, I would get sativas that would spiral my tremors out of control. At this point, I decided to really educate myself about the medicinal virtues of cannabis.
+I began to take this lotion with me to my therapeutic massages, and my therapist uses the lotion during my ultrasound, and he was so impressed with how well the lotion melted and absorbed into the skin. He also said it was perfect for using with the ultrasound machine, because the electric waves push the CBD in deeper, penetrating the muscles and relieving the pain even more effectively. When I use the lotion at therapy, I need one less session a week, because I felt better between sessions.
 
-It took 3 years out of a 4 year span of trial and error until I decided to take a trip to Denver. Prior to my trip, I did not have the capabilities to be able to successfully walk more than 5 minutes without pain. I used ONE Mary’s Medicinal 1:1 CBD/THC patch and that same day I was able to walk 5 miles.
+**Overall**
 
-From this discovery, I knew I needed CBD and began purchasing Charlotte’s Web (a high CBD/low THC strain of cannabis) regularly. The majority of my symptoms had significantly decreased and I was working more regularly without pain and flare ups.
+As a product reviewer, I try lots of things, but find myself impressed by few. This product was given to me to review, but, when I run out, I will purchase this product for as long as I have access to it. I recommend it to everyone I get a chance to. I have used it at home to treat joint pain, eczema, muscle spasms, neuropathy, strained muscles and sore backs. It has become my go to for just about anything, and now that I can bring it to physical therapy and have it used there, it will certainly be a staple in my home.
 
-I received my medical marijuana card from the state of New Jersey in 2017. I have never been so grateful for anything in my life. Cannabis has given me the ability to work for myself. Cannabis has given me my life back and for this I am willing to give my life to cannabis.
+I would love to see small patient owned businesses like Rx Mary Jade get the exposure they need to succeed. This product should be available in dispensaries and physical therapists should have access to it too. I think it is especially important that doctors such as rheumatologists and physical therapists have access and education about these types of products so they can share them with those most affected by chronic pain, such as the elderly. You can pick up a jar for yourself here: [RxMaryJade](https://www.etsy.com/shop/RxMaryJade)
 
-My mission is to help as many patients and non-patients with this plant as possible. I want to spread education in reference to cannabis and to help to provide empowerment to others. It is important for me to remove the stigma. This IS medicine, this medicine gives lives back. Let us live.
+![](/uploads/IMG_0216.JPG)
 
-_Follow Jade Sancho-Duser on Instagram at_ [rxmaryjade](http://www.instagram.com/rxmaryjade "http://www.instagram.com/rxmaryjade")
+It also makes a great gift for anyone who suffers from chronic pain!
+
+  
+Follow Jade on social media and read her blog! Find her here: [rxmaryjade, rxmaryjade](https://instagram.com/rxmaryjade?utm_source=ig_profile_share&igshid=q9wyhucrisi8)
