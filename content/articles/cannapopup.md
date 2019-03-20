@@ -10,6 +10,8 @@ title = "CannaPopup"
 type = "post"
 
 +++
+![](/uploads/CannapopuplogowithBest.png)
+
 **New Jersey’s First Cannabis Culture Pop-Ups - Bringing Events to a New High**
 
 by Holli Ehrlich, Co-Producer Canna Pop-Up
