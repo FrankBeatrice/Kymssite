@@ -1,21 +1,26 @@
 +++
 author = "Kym_B"
 authorImage = "/uploads/authors/Author_KymByrnes.jpg"
-image = "/uploads/Kym_cover.jpg"
-categories = "Test"
+categories = ["news", "update"]
 comments = true
-date = "2018-08-17T13:52:07.411+00:00"
+date = "2019-03-16T13:52:07+00:00"
+image = "/uploads/Kym_cover.jpg"
 share = true
+tags = ["Kym's Updates", "News"]
 title = "Kym's Updates"
 type = "post"
-tags = ["Kym's Updates", "News"]
+
 +++
-What an exciting time in the world of weed! As your official plug for news and events, I have been struggling to create a hub for all of the amazing opportunities in the cannabis community. After months of compiling and an amazing team - I launch Cannabis with KymB Online Platform. Here you can find all things cannabis specifically on the (B) East Coast.  
-  
-It’s no secret that I LOVE cannabis in all shapes, sizes and forms #girlwhosmokes  
-  
-On this site, check out all the brands and events that I love. Whether you are an advocate, patient or canna-curious, you’ll find something here for you. Join me at CannaGather or Women Grow and keepyour network poppin’. Shop the latest in CBD - coffee, beauty, fashion and more. Get information of becoming a patient of the plant with Nugg MD. I could go on and on but really you just need to start scrolling.
+![](/uploads/CWKB_background.jpg)
 
-This site is interactive with links, love and info. Don’t be shy! HMU if you have questions or want to say hi! Follow me on instagram for a look into my life as the Director of Distribution and partner at
+Mindful. Fit. Lit. Kym B is redefining what a modern cannabis consumer looks like and is working to change the stigma behind stoner culture.
 
-TribeTokes, one the sexiest girl-owned Vaping companies out there. My goal is to give you the scoop on the cannabis industry and all its glory. Remember, if you want to be part of the movement, you gotta show up and educate yourself. Thank you so much for being part of the movement. Don’t forget to follow me on IG: @CannabisWithKymB See you there!
+As an activist and influencer, Kym has spent more than a decade promoting the healing properties of cannabis. She's become one of the top cannabis influencers in the Northeast through hard work and practicing what she preaches. Her motto, **"You gotta show up"** is exactly how she's built her career: Kym serves as the VP of Community at CannaGather NYC and hosts a live news show there called "Cannabis with Kym B" where she presents what's currently happening in the world of weed. As a Brand Ambassador of Women Grow NYC, Kym helps spread the word on how you, too, can get in the industry. In fact, Women Grow is where Kym met her business partner, and the duo created TribeTokes, a sexy smoke and vape brand with a showroom in Manhattan's Meatpacking District. There, Kym helps oversee the company's operations, including the CBD website, [cbdizzle.com](http://cbdizzle.com/). That's where you can also find her eye cream, Cannablis by Kym B, a luxurious blend of CBD and moisturizing elements like aloe and hyaluronic acid.
+
+![](/uploads/eyecream_sidebyside.jpg)
+
+Despite creating numerous cannabis-related brands, Kym's main goal is to promote the healing properties of the cannabis plant through education and consumption. She's seen first-hand how cannabis can promote health and wellness as both an educator and as a patient. That's why she serves as a Brand Ambassador for [nuggmd](http://kymb.nuggmd.com/ "http://kymb.nuggmd.com/"), a website where you can apply for a medical marijuana card. Currently, Kym has helped hundreds of people find a legal way to obtain their medicine.
+
+![](/uploads/authors/Author_KymByrnes.jpg)
+
+Think stoners don't work out? Thing again. Kym has been teaching fitness classes for more than 15 years and even ran her own studio while simultaneously overseeing a high-end, indoor grow operation. (This expertise is why she was chosen as a judge at the first-ever recreational High Times Cup in 2018.) Kym's been teaching fitness classes at Equinox, an upscale gym chain, for five years, and there's consistently a waitlist for her weekly "Trap House Pilates" class, a choreographed workout to hip-hop and trap beats. You can also find Kym hosting CBD and Pilates pop-ups around New York and New Jersey. You can also find her on the soon-to-launch website, "Life on C-List," and, of course, on Instagram ([cannabiswithkymb](https://instagram.com/cannabiswithkymb?utm_source=ig_profile_share&igshid=v99cnmtaq54b "https://instagram.com/cannabiswithkymb?utm_source=ig_profile_share&igshid=v99cnmtaq54b")), where she's amassed tens of thousands of followers.
