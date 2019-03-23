@@ -5,7 +5,6 @@ authorImage = "/uploads/authors/Author_Sponsored.png"
 categories = ["Nugg", "Health"]
 comments = true
 date = ""
-draft = true
 share = true
 tags = ["Health", "Medical Cannabis"]
 title = "NuggMD"
