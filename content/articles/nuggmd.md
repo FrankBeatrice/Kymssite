@@ -2,11 +2,12 @@
 Image = "NUGGMDgold.pdf"
 author = "Sponsored"
 authorImage = "/uploads/authors/Author_Sponsored.png"
-categories = "Test"
+categories = ["Nugg", "Health"]
 comments = true
-date = "2018-08-17T13:52:07.411+00:00"
+date = ""
+draft = true
 share = true
-tags = ["Medicinal", "Health"]
+tags = ["Health", "Medical Cannabis"]
 title = "NuggMD"
 type = "post"
 
