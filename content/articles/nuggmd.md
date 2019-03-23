@@ -1,8 +1,7 @@
 +++
+Image = "NUGGMDgold.pdf"
 author = "Sponsored"
 authorImage = "/uploads/authors/Author_Sponsored.png"
-
-Image = "/uploads/nuggmd_cover2.jpg"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
