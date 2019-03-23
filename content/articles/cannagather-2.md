@@ -4,7 +4,6 @@ authorImage = ""
 categories = ["networking", "cannagather"]
 comments = true
 date = "2019-03-23T00:38:40+00:00"
-draft = true
 image = "file:///Users/laceyyannelli/Downloads/cannagatherGOLD.pdf"
 share = true
 tags = ["CannaGather", "Networking"]
