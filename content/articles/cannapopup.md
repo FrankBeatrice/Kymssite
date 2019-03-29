@@ -1,5 +1,6 @@
 +++
 author = "Holli Ehrlich"
+image = "/uploads/CannaPopUp.jpg"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
 categories = ["CannaPopUp", "Networking"]
 comments = true
