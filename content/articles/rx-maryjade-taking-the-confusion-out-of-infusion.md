@@ -1,6 +1,7 @@
 +++
 author = "Rx_MaryJade"
 authorImage = ""
+image = "/uploads/rxmkjj.jpg"
 categories = ["CBD", "education"]
 comments = true
 date = "2019-01-30T05:00:00+00:00"
