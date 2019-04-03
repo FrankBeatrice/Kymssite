@@ -95,7 +95,7 @@ LEVEL 2. MENU STYLES
 
 .header{
   box-sizing: border-box;
-  width: 100%;
+  /*width: 100%;*/
   color: var(--colorWhite);
 
   display: flex;
@@ -106,7 +106,7 @@ LEVEL 2. MENU STYLES
   left: 0;
   z-index: 9998;
   
-  max-width:100%;
+  max-width:90%;
   height:auto;
 
   
@@ -406,6 +406,6 @@ LEVEL 3. MOBILE ANIMATION STYLES
 }
 
 .site-header outer {
-  max-width:100%;
+  max-width:90%;
   height:auto;
 }
