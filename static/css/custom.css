@@ -105,6 +105,11 @@ LEVEL 2. MENU STYLES
   bottom: 0;
   left: 0;
   z-index: 9998;
+  
+  max-width:100%;
+  height:auto;
+
+  
 }
 
 .menu{
@@ -398,4 +403,9 @@ LEVEL 3. MOBILE ANIMATION STYLES
 
 .floating-active {
   flex-flow: row wrap !important;
+}
+
+.site-header outer {
+  max-width:100%;
+  height:auto;
 }
