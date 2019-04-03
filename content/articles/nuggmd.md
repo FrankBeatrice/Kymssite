@@ -1,5 +1,5 @@
 +++
-Image = "NUGGMDgold.pdf"
+image = "uploads/NUGGMD.jpg"
 author = "Sponsored"
 authorImage = "/uploads/authors/Author_Sponsored.png"
 categories = ["Nugg", "Health"]

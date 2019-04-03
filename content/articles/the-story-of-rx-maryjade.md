@@ -1,6 +1,7 @@
 +++
 author = "Lacey_Jaye"
 authorImage = ""
+image = "/uploads/rxmj.jpg"
 categories = ["CBD", "review"]
 comments = true
 date = "2019-01-30T05:00:00+00:00"
