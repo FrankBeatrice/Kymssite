@@ -309,6 +309,10 @@ LEVEL 3. MOBILE ANIMATION STYLES
 
 .site-header {
   background-color: rgba(255,255,255, 1);
+      max-width: 480px;
+        width: 100%;
+        height: 100%;
+     
 }
 
 
@@ -403,9 +407,4 @@ LEVEL 3. MOBILE ANIMATION STYLES
 
 .floating-active {
   flex-flow: row wrap !important;
-}
-
-.site-header outer {
-  max-width:100%;
-  height:auto;
 }
