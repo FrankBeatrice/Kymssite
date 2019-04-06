@@ -1,5 +1,5 @@
 +++
-author = "Lacey_Jaye"
+author = "Kym_B"
 authorImage = "/uploads/authors/Author_KymByrnes.jpg"
 categories = ["health", "fitness"]
 comments = true
