@@ -1,12 +1,12 @@
 +++
 author = "Andrew_Ward"
 authorImage = ""
-categories = ["networking", "cannagather"]
+categories = ["Cannabis Doctors", "Wellness"]
 comments = true
-date = "2019-03-23T00:38:40+00:00"
+date = ""
 image = "/uploads/cannagather_cover.jpg"
 share = true
-tags = ["CannaGather", "Networking"]
+tags = ["Health", "Cannabis"]
 title = "NuggMD"
 type = "post"
 
