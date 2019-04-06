@@ -1,10 +1,10 @@
 +++
 author = "Holli Ehrlich"
-image = "/uploads/CannaPopUp.jpg"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
 categories = ["CannaPopUp", "Networking"]
 comments = true
-date = "2018-08-17T13:52:07.411+00:00"
+date = ""
+image = "/uploads/CannaPopUp.jpg"
 share = true
 tags = ["Networking", "Retail"]
 title = "CannaPopup"
