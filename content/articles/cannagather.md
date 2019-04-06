@@ -7,7 +7,7 @@ date = "2019-03-23T00:38:40+00:00"
 image = "/uploads/cannagather_cover.jpg"
 share = true
 tags = ["CannaGather", "Networking"]
-title = "CannaGather"
+title = "NuggMD"
 type = "post"
 
 +++
