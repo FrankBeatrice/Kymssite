@@ -1,10 +1,10 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
+image = "/uploads/cannapopup_2.jpg"
 categories = ["CannaPopUp", "News"]
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
-image = ""
 share = true
 tags = ["Networking", "Cannapopup"]
 title = "CannaPopUp: The perfect event for the canna-curious"
@@ -17,7 +17,7 @@ type = "post"
 
 February 1, 2019
 
-Montclaire, New Jersey
+Montclair, New Jersey
 
 There are definitely many cannabis themed events popping up, and on a daily basis. You have the "underground" scene and then there is the "above ground" legal canna-business scene. Both movements doing their own part in the ever evolving cannabis movement. Events that promote legal cannabis companies and products while opening the door to enlightenment through networking. The latter is my favorite. For someone as introverted as myself, I have found the cannaspace to be very warm and receptive to me. I feel very at home at these types of events once the initial shock wears off.
 
