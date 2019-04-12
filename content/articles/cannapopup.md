@@ -1,6 +1,6 @@
 +++
 author = "Holli Ehrlich"
-authorImage = "/uploads/authors/AuthorLacyJae.png"
+authorImage = ""
 categories = ["CannaPopUp", "Networking"]
 comments = true
 date = ""
