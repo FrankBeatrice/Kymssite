@@ -26,7 +26,7 @@ theme = "casper-two"
 	weight =9
 [[menu.main]]
 	name = "NuggMD"
-	url = "kymb.nuggmd.com"
+	url = "https://kymb.nuggmd.com"
 	weight =10
 [[menu.main]]
 	name = "CBDizzle"
