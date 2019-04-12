@@ -1,10 +1,10 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
+image = "/uploads/product_reviews.jpg"
 categories = ["cbd", "health and wellness"]
 comments = true
 date = ""
-image = "/uploads/authors/AuthorLacyJae.png"
 share = true
 tags = ["cbd", "yoga"]
 title = "Health and Wellness trends: CBD Yoga for the win!"
