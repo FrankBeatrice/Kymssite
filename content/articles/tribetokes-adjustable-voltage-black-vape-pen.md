@@ -1,7 +1,7 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
-image = "/uploads/cannapopup_2.jpg"
+image = "/uploads/tribetokes.jpg"
 categories = ["Tribetokes", "CBD"]
 comments = true
 date = "2019-03-22T04:00:00+00:00"
