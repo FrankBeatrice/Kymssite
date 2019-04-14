@@ -1,5 +1,5 @@
 ---
-name: Hollie Ehrlich
+name: Holli Ehrlich
 image: "/uploads/authors/Author_HollieEhrlich.jpg"
 title: Founder of Canna-Pop-Up 
 address: New York, NY
