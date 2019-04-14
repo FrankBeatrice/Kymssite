@@ -1,7 +1,7 @@
 +++
 author = "Rx_MaryJade"
-image = "/uploads/authors/Author_RxMaryJade.jpg"
-authorImage = ""
+image = "/uploads/rxmj.jpg"
+authorImage = "/uploads/authors/Author_RxMaryJade.jpg"
 categories = ["CBD", "education"]
 comments = true
 date = "2019-01-30T05:00:00+00:00"
