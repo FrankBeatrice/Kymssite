@@ -1,6 +1,6 @@
 ---
 name: Hollie Ehrlich
-image: "/uploads/authors/Author_HollieEhrlich.jpg
+image: "/uploads/authors/Author_HollieEhrlich.jpg"
 title: Founder of Canna-Pop-Up 
 address: New York, NY
 twitterName: cannabiswithkym
