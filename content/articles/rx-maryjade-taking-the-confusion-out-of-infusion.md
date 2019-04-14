@@ -1,6 +1,6 @@
 +++
 author = "Rx_MaryJade"
-image = "/uploads/rxmj.jpg"
+image = "/uploads/authors/Author_RxMaryJade.jpg"
 authorImage = ""
 categories = ["CBD", "education"]
 comments = true
