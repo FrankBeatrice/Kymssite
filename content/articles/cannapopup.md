@@ -1,5 +1,5 @@
 +++
-author = "Holli_Ehrlich"
+author = "Holli Ehrlich"
 authorImage = "/uploads/authors/Author_HollieEhrlich.jpg"
 categories = ["CannaPopUp", "Networking"]
 comments = true
