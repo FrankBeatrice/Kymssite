@@ -1,6 +1,6 @@
 +++
 author = "Andrew_Ward"
-authorImage = ""
+authorImage = "/uploads/authors/Author_AndrewWard.jpg"
 categories = ["Cannabis Doctors", "Wellness"]
 comments = true
 date = ""
