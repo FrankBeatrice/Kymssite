@@ -7,7 +7,7 @@ comments = true
 date = "2019-01-30T05:00:00+00:00"
 share = true
 tags = ["CBD", "Rx MaryJade"]
-title = "Rx MaryJade: Taking the confusion out of infusion"
+title = "Reviews by Lacey Jaye:Rx MaryJade"
 type = "post"
 
 +++
