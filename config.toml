@@ -60,7 +60,7 @@ theme = "casper-two"
 [params]
 	RSSLink = ""
 	author = "Kym_B"
-	authorAvatar = "/uploads/CannaBLISWKymB_Logo_160x160@2x.jpg"
+	authorAvatar = "/uploads/favicon-96x96.png"
 	authorDescription = "Developer, Designer, Legend..."
 	authorLocation = "New York, NY"
 	authorWebsite = "https://www.cannabiswithkymb.com/"
