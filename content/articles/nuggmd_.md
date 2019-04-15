@@ -1,10 +1,10 @@
 +++
 author = "Andrew_Ward"
-authorImage = "/uploads/authors/Author_AndrewWard.jpg"
+authorImage = ""
 categories = ["Cannabis Doctors", "Wellness"]
 comments = true
 date = ""
-image = "/uploads/cannagather_cover.jpg"
+image = "/uploads/NUGGMD.jpg"
 share = true
 tags = ["Health", "Cannabis"]
 title = "NuggMD"
