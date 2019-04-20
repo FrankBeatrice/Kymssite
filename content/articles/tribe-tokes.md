@@ -11,7 +11,6 @@ title = "Tribe Tokes"
 type = "post"
 
 +++
-
 ## _ABOUT TRIBETOKES_
 
 TribeTokes creates and distributes merchandise with an elevated aesthetic for the next generation cannabis consumer - who respects plant science, consumes mindfully and expects top quality products from trusted brands. We are dedicated to elevating the acceptance & aesthetics of the industry and celebrating its thriving community.
@@ -19,16 +18,11 @@ TribeTokes creates and distributes merchandise with an elevated aesthetic for t
 MINDFUL, FIT AND LIT
 
 [![button](/uploads/visit button.jpg)](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15)
-[https://www.tribetokes.com/](https://www.tribetokes.com/ "https://www.tribetokes.com/")
-
-
 
 **Featured Product**  
 ![](/uploads/whitevapepen.jpg)![](/uploads/closedwhitekit.jpg)
 
-
 [![button](/uploads/BUY BUTTON.jpg)](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15)
-
 
 **WHY WE LOVE IT**
 
