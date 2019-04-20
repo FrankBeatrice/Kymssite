@@ -1,19 +1,17 @@
 +++
-image = "uploads/NUGGMD.jpg"
 author = "Sponsored"
 authorImage = "/uploads/authors/Author_Sponsored.png"
 categories = ["Nugg", "Health"]
 comments = true
 date = ""
+image = "uploads/NUGGMD.jpg"
 share = true
 tags = ["Health", "Medical Cannabis"]
 title = "NuggMD"
 type = "post"
 
 +++
-![](/uploads/nuggMd.jpg)
-
-About NuggMD
+![](/uploads/nuggmd_cover2.jpg)About NuggMD
 
 NuggMD is the fastest, easiest, and most secure way to get your medical marijuana recommendation and card, granting you instant access to the California cannabis industry.
 
@@ -27,8 +25,7 @@ _We're ready when you are._
 
 ![](/uploads/IMG-8183.JPG)
 
- 
-[![button](/uploads/BUY BUTTON.jpg)](http://kymb.nuggmd.com/) 
+[![button](/uploads/BUY BUTTON.jpg)](http://kymb.nuggmd.com/)
 
 Get Your Medical Marijuana Recommendation Online
 
