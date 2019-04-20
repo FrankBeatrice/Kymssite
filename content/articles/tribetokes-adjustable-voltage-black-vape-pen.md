@@ -31,4 +31,7 @@ In the three weeks that I have had this pen styled battery, I have only had to c
 
 With the graduation and wedding season right around the corner, this is an excellent item to gift. You can purchase this pen in a bundle and it comes with a half gram of CBD oil. This kit would be excellent for people of all experience levels. Everything you need comes elegantly encased conveniently in one place and ready to use straight from the package. What is better than that? It also comes in white!
 
+
+[![button](/uploads/BUY BUTTON.jpg)](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15)
+
 [https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15 "https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15")
