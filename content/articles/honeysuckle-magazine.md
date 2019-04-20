@@ -15,7 +15,7 @@ type = "post"
 
 In the last issue of Honeysuckle, our very own KymB has a published piece. Read a quick excerpt here and click the link to read more!
 
-[https://www.janewest.com/meet-jane/](https://www.janewest.com/meet-jane/ "https://www.janewest.com/meet-jane/")
+[![button](/uploads/visit button.jpg)](https://www.janewest.com/meet-jane/)
 
 “_Jane West, the badass canna-mom and entrepreneur,_
 
