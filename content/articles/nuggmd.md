@@ -4,6 +4,7 @@ authorImage = "/uploads/authors/Author_Sponsored.png"
 categories = ["Nugg", "Health"]
 comments = true
 date = ""
+draft = true
 image = "uploads/NUGGMD.jpg"
 share = true
 tags = ["Health", "Medical Cannabis"]
