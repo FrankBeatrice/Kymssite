@@ -22,11 +22,13 @@ We're here to curate only the BEST products on the market, with the scoop on why
 
 [https://www.cbdizzle.com/](https://www.cbdizzle.com/ "https://www.cbdizzle.com/")
 
+[![button](/uploads/visit button.jpg)](https://www.cbdizzle.com/)
+
 **_Featured Item_**
 
 ![](/uploads/NatXtract_Gummies_.jpg)
 
-[ttps://www.cbdizzle.com/products/naturalxtract-250mg-cbd-gummies](https://www.cbdizzle.com/products/naturalxtract-250mg-cbd-gummies)
+[![button](/uploads/BUY BUTTON.jpg)](https://www.cbdizzle.com//products/naturalxtract-250mg-cbd-gummies)
 
 Each organic CBD gummy contains 25mg of naturally occurring 99.7% CO2 extracted cannabidiol isolate, THC free.
 
