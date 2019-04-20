@@ -40,8 +40,8 @@ We manifest what we have learned: 
 6. We celebrate and respect cannabis as a connector, a healer, and a right to us all. 
 
  
+[![button](/uploads/visit button.jpg)](https://pussyweed.org/)
 
-[https://pussyweed.org/](https://pussyweed.org/ "https://pussyweed.org/") 
 
  ![](/uploads/The Hannah Tote (Photo by Natasha Przedborski).jpg)
 
