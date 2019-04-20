@@ -18,10 +18,17 @@ TribeTokes creates and distributes merchandise with an elevated aesthetic for t
 
 MINDFUL, FIT AND LIT
 
+[![button](/uploads/visit button.jpg)](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15)
 [https://www.tribetokes.com/](https://www.tribetokes.com/ "https://www.tribetokes.com/")
 
+
+
 **Featured Product**  
-![](/uploads/whitevapepen.jpg)![](/uploads/closedwhitekit.jpg)[https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread "https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread")
+![](/uploads/whitevapepen.jpg)![](/uploads/closedwhitekit.jpg)
+
+
+[![button](/uploads/BUY BUTTON.jpg)](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/cbd-vape-starter-kit-black-battery-cartridge-save-15)
+
 
 **WHY WE LOVE IT**
 
