@@ -49,6 +49,8 @@ Attendees hung back after the class to shop and mingle. Many asking Jade when th
 
 Overall, I found Jade to be funny, entertaining and informative. I can’t stress the vital role that she plays as an advocate and teacher in the community. Rx Mary Jade started as a self-help mission that has over poured and in the most wonderful way possible. Jade spreads knowledge and wellness everywhere she goes, and she does it with a smile on her face and kindness and love in her heart. I could not be more thankful for having crossed paths with such a vibrant and kind soul. At the end of the day, Rx Mary Jade isn’t a business or brand that is just in it for the money, but in it for the genuine well-being of others and putting the knowledge and tools in the hands of people who need it most.
 
-You can find out more about upcoming events by clicking here: [http://www.rxmaryjade.com/upcoming-events](http://www.rxmaryjade.com/upcoming-events "http://www.rxmaryjade.com/upcoming-events")
+You can find out more about upcoming events by clicking here: 
+[![button](/uploads/visit button.jpg)](http://www.rxmaryjade.com/upcoming-events)
+
 
 ![](https://lh3.googleusercontent.com/DpE5_Wv_8ap9FzH0X0TK9xFGS0OShGRNgjD-jSAroJmEOBHjlX58JqrkY4wOegh5GS7sQa6H_ucRBBF4MBYZw445sLJBawOULxBBD_ABbzjCQu12D5FOfevTw_InzvFM6XLQK0k =399x399)
