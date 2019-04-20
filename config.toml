@@ -17,7 +17,7 @@ theme = "casper-two"
 	url = "https://womengrow.com/"
 	weight =7
 [[menu.main]]
-	name = "CannaBlis by KymB"
+	name = "CannaBlisbyKymB"
 	url = "/https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty"
 	weight =8
 [[menu.main]]
