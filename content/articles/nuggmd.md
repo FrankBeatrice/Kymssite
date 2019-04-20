@@ -27,7 +27,8 @@ _We're ready when you are._
 
 ![](/uploads/IMG-8183.JPG)
 
-[http://kymb.nuggmd.com/](http://kymb.nuggmd.com/ "http://kymb.nuggmd.com/")
+ 
+[![button](/uploads/BUY BUTTON.jpg)](http://kymb.nuggmd.com/) 
 
 Get Your Medical Marijuana Recommendation Online
 
