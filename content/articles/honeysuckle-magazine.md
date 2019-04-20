@@ -24,3 +24,5 @@ _
 ![](/uploads/honeysuckleOnecover.jpeg)
 
 You can find Honeysuckle Magazine online and in stores and on newsstands nationwide.
+
+[![button](/uploads/visit button.jpg)](https://honeysucklemag.com/)
