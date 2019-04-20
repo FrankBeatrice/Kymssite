@@ -47,4 +47,4 @@ I would love to see small patient owned businesses like Rx Mary Jade get the exp
 
 It also makes a great gift for anyone who suffers from chronic pain!
 
-Follow Jade on social media and read her blog! Find her here: [rxmaryjade](https://instagram.com/rxmaryjade?utm_source=ig_profile_share&igshid=q9wyhucrisi8)
+Follow Jade on social media and read her blog! Find her here: [rxmaryjade](https://instagram.com/rxmaryjade?utm_source=ig_profile_share&igshid=q9wyhucrisi8) 
