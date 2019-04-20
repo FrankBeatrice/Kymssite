@@ -29,7 +29,9 @@ All this combined with the renewing*, anti-inflammatory properties* of Cannabidi
 
 ![](/uploads/cannablis_cover.jpg)
 
-[https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty](https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty "https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty")
+
+[![button](/uploads/BUY BUTTON.jpg)](https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty)
+
 
 **WHY WE LOVE IT**
 
