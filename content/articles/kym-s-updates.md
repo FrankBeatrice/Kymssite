@@ -11,9 +11,10 @@ title = "Kym's Updates"
 type = "post"
 
 +++
-![](/uploads/CWKB_background.jpg)
 
-Mindful. Fit. Lit. Kym B is redefining what a modern cannabis consumer looks like and is working to change the stigma behind stoner culture.
+### Mindful. Fit. Lit. 
+
+#### Kym B is redefining what a modern cannabis consumer looks like and is working to change the stigma behind stoner culture.
 
 As an activist and influencer, Kym has spent more than a decade promoting the healing properties of cannabis. She's become one of the top cannabis influencers in the Northeast through hard work and practicing what she preaches. Her motto, **"You gotta show up"** is exactly how she's built her career: Kym serves as the VP of Community at CannaGather NYC and hosts a live news show there called "Cannabis with Kym B" where she presents what's currently happening in the world of weed. As a Brand Ambassador of Women Grow NYC, Kym helps spread the word on how you, too, can get in the industry. In fact, Women Grow is where Kym met her business partner, and the duo created TribeTokes, a sexy smoke and vape brand with a showroom in Manhattan's Meatpacking District. There, Kym helps oversee the company's operations, including the CBD website, [cbdizzle.com](http://cbdizzle.com/). That's where you can also find her eye cream, Cannablis by Kym B, a luxurious blend of CBD and moisturizing elements like aloe and hyaluronic acid.
 

@@ -1,17 +1,17 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
-image = "/uploads/tribetokes.jpg"
 categories = ["Tribetokes", "CBD"]
 comments = true
 date = "2019-03-22T04:00:00+00:00"
+image = "/uploads/tribetokes.jpg"
 share = true
 tags = ["Retail", "Review"]
-title = "TribeTokes Adjustable Voltage Pen"
+title = "Review with Lacey Jaye: TribeTokes Vape Wand"
 type = "post"
 
 +++
-## TribeTokes Adjustable voltage Black Vape Pen Starter Kit
+## TribeTokes Adjustable voltage Black VapeWand
 
 I have tried several vape pens the last eight weeks, five to be exact and I would like to share with you my thoughts on this particular pen. The TribeTokes multi voltage pen.
 

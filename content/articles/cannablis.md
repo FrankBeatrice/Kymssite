@@ -7,7 +7,7 @@ date = "2018-08-17T13:52:07.411+00:00"
 image = "/uploads/cannablis_cover.jpg"
 share = true
 tags = ["Beauty", "Health"]
-title = "CannaBlis"
+title = "CannaBlisByKymB"
 type = "post"
 
 +++

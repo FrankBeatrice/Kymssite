@@ -1,19 +1,18 @@
 +++
 author = "Lacey_Jaye"
 authorImage = "/uploads/authors/AuthorLacyJae.png"
-image = "/uploads/cannapopup_2.jpg"
 categories = ["CannaPopUp", "News"]
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
+image = "/uploads/cannapopup_2.jpg"
 share = true
 tags = ["Networking", "Cannapopup"]
-title = "CannaPopUp: The perfect event for the canna-curious"
+title = "Cannabis Event: CannaPopUp the perfect event for the canna-curious"
 type = "post"
 
 +++
-![](/uploads/CannapopuplogowithBest.png)
 
-### **CannaPopUp**: The perfect event for the canna-curious
+### **Cannabis Event Review**: CannaPopUp the perfect event for the canna-curious
 
 February 1, 2019
 
@@ -23,7 +22,6 @@ There are definitely many cannabis themed events popping up, and on a daily basi
 
 ![](/uploads/IMG_9549.jpg)
 
-  
 Recently I have been trying to attend more of these events, and I have to say no one puts on an event like Robert and Holli. They are the ultimate canna-power couple behind [**cannapopup**](https://cannapopup.com/ "https://cannapopup.com/")! They take the time and passion to carefully curate the vendors they bring together for each event. Each vendor is there to share their passion and knowledge with attendees. The products are always of the highest quality and usually all are local to the New Jersey, New York and Pennsylvania area, so you can feel good about supporting these canna-businesses with your purchases. This event didn’t feel like a giant sales pitch. Vendors genuinely seemed to care about the attendees and their needs pertaining to CBD and cannabis.
 
 ![](/uploads/IMG_9550.jpg)  
